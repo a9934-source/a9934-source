@@ -1,27 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<p align="left">My name is Martim and I'm a student from Portugal</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">I'm Martim from Portugal<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning how to code in many languages<br>- ⚡ I'm from Portugal</p>
 
 ###
 
-<p align="left">📚 I'm currently learning how to code in many languages!</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -32,4 +28,14 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a9934-source&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a9934-source&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
